@@ -1,4 +1,4 @@
-<img src=".github/mLogo.png" width="150" height="150" align="left"></img>
+<img src=".github/mLogo.png" width="150" height="150" align="left"></img> 
 
 <h1>PreMiD <code>--linux</code></h1>
 Discord Rich Presence for web services!
